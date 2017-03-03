@@ -1,2 +1,2 @@
 # short-js
-Simple one liner explanation for front-end concepts
+Simple one-liner explanation for web front-end concepts                                                                                                                                                                                                                                               
