@@ -6,5 +6,5 @@
 
 ## Functions
 
-* [functions, method, procedure](//functions/function-method-and-procedure.md)
+* [function, method and procedure](//functions/function-method-and-procedure.md)
 
