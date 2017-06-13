@@ -1,11 +1,14 @@
 # Summary
 
-* [Introduction](README.md)
+## Introduction
+
+* [Preface](README.md)
+
+## Functions
+
+* [functions/function-method-and-procedure.md](//functions/function-method-and-procedure.md)
 
 
-
-* [Functions](/functions/README.md)
-  * [functions/function-method-and-procedure.md](/functions/function-method-and-procedure.md)
 
 
 
