@@ -1,6 +1,6 @@
 # Function, Method and Procedure
 
-Three distinct concept used interchangeably especially in JavaScript world. I might be brave to say but this famous indistinction very well span across entire programming community \(of course except for Functional Programmers\). And there is a good reason for that. Programmers often don't have necessary academic background required to understand abstract concept. Even if they do, there is a void between academic world and its application in real world.
+Three distinct concepts used interchangeably especially in JavaScript world. I might be brave to say but this famous indistinction very well span across entire programming community \(of course except for Functional Programmers\). And there is a good reason for that. Programmers often don't have necessary academic background required to understand abstract concept. Even if they do, there is a void between academic world and its application in real world.
 
 To best put it words, function, methods and procedures are series of related instruction grouped together to execute within a larger program. This is the common part. The distinction lies in their formal definition:
 
