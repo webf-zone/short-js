@@ -89,7 +89,7 @@ However, the idea of `context` still prevails. It could be `this` pointer or `se
 
 Going further, one might ask - **what about static methods defined on a class?** We can do that in almost any OOP language including JavaScript? Should they be called **static functions**. Simply put, there is no definite answer to that. But I personally choose to call them method. The reason being, though they don't have context of the object as such, they are privileged and can still access special fields \(private fields\) of that class and thus in some way they still have context.
 
-## Functions and Procedure
+## Function and Procedure
 
 > When it comes to procedure, you can quite surely say that they read some global state or modify \(mutate is the fancy word for modification\) it. If you are not doing any of that, then it probably means your procedure is empty.
 
