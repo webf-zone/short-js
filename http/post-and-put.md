@@ -65,7 +65,7 @@ Below is the simple table that will help you choose right method:
 | Yes | Yes | PUT |
 | Yes | No | POST \(Or PUT if dealing with **SearchQuery** like resource\) |
 | No | Yes | POST |
-| No  | No | POST |
+| No | No | POST |
 
 Finally, one last traditional scenario where you might need to use **POST**? When you are trying to filter extremely large dataset with lots of options and filter settings. You would use **GET**. But it is probably not possible due to size of URL string. Old time servers/routers had limit of 255 character in a query. Maybe when you come across such scenario, you might want to tweak RESTful ideas to suit your needs.
 
