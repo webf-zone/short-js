@@ -6,7 +6,7 @@
 
 ## Basics
 
-* [Statement & expression](basics/statements-and-expressions.md)
+* [Statement & expression](/basics/statements-and-expressions.md)
 
 ## Functions
 
@@ -15,4 +15,6 @@
 ## HTTP
 
 * [POST and PUT](http/post-and-put.md)
+
+
 
