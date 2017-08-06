@@ -6,7 +6,7 @@
 
 ## Basics
 
-* [Statement & expression](/basics/statements-and-expressions.md)
+* [Statement & expression](/basics/statement-and-expression.md)
 
 ## Functions
 
