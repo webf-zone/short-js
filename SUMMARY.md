@@ -6,7 +6,7 @@
 
 ## Functions
 
-* [function, method and procedure](//functions/function-method-and-procedure.md)
+* [Function, method & procedure](//functions/function-method-and-procedure.md)
 
 ## HTTP
 
