@@ -1,4 +1,4 @@
-# Finding Elements
+# Finding DOM Elements
 
 Front-end world before jQuery was completely different ballgame. Finding any DOM element within HTML page was cumbersome. You had only three options:
 
@@ -58,7 +58,7 @@ let pageBody = document.querySelector('div#page-body')
 let allDivs = document.querySelectorAll('div.highlight')
 ```
 
-Additionally **`querySelector `**and **`querySelectorAll `**is available not just on document object but also on every html element. In that case it will search for element within subtree of that element:
+Additionally `querySelector`and `querySelectorAll`is available not just on document object but also on every html element. In that case it will search for element within subtree of that element:
 
 ```js
 /* HTML structure
