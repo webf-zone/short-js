@@ -18,5 +18,7 @@
 
 ## DOM
 
-* [Finding elements](dom/finding-elements.md)
+* [Finding DOM elements](/dom/finding-dom-elements.md)
+
+
 
