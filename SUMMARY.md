@@ -16,5 +16,7 @@
 
 * [POST and PUT](http/post-and-put.md)
 
+## DOM
 
+* [Finding elements](dom/finding-elements.md)
 
