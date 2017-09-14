@@ -19,6 +19,5 @@
 ## DOM
 
 * [Finding DOM elements](/dom/finding-dom-elements.md)
-
-
+* [HTMLCollection and NodeList](htmlcollection-and-nodelist.md)
 
