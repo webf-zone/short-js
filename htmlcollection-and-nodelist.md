@@ -1,5 +1,7 @@
 # HTMLCollection and NodeList
 
+_&lt;WIP&gt;: Work in progress_
+
 HTMLCollection is a list of elements of type HTMLElement and while NodeList is a list of elements of type Node. HTMLCollection is a live list which gets updated upon DOM changes while NodeList is a snapshot list created and returned at the time of invocation.
 
 ```
@@ -23,8 +25,6 @@ The native HTMLElement class is extended from the native class Node. In an HTML 
 ## Usage
 
 ## Consequences
-
-
 
 
 
