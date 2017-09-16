@@ -80,9 +80,9 @@ console.log(para.length);    // 2
 
 ## Uses
 
-In 2017, it should be remembered that **web is not SPA and SPA is not web**. Not everything is web application. We have enormous number of websites that needs a bit of JavaScript for interaction. At such places, you may use jQuery or plain JavaScript. That is where you can use **selector API**.
+In 2017, it should be remembered that **web is not SPA and SPA is not web**. Not everything is a web application. We have enormous number of websites that needs a bit of JavaScript for interaction. At such places, you may use jQuery or plain JavaScript. That is where you can use **selector API**.
 
-Front-end ecosystem has grown exponentially. Many beginners are picking up so called buzz words - Angular, React, Vue - instead of learning core concepts of web \(HTML + CSS + JS\). These buzz words are just one of the many amazing things you can do with JavaScript. But you not get anywhere beyond a framework if you do not understand fundamental concepts of web.
+Front-end ecosystem has grown exponentially. Many beginners are picking up so called buzz words - Angular, React, Vue - instead of learning core concepts of web \(HTML + CSS + JS\). These buzz words are just one of the many amazing things you can do with JavaScript. But you will not get anywhere beyond a framework if you do not understand fundamental concepts of web.
 
 ### Further reading
 
