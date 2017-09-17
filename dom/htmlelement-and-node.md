@@ -1,8 +1,6 @@
 # HTMLElement and Node
 
-![](/assets/htmlelement-and-node.png)
-
-The diagram shows the hierarchy of interfaces in a browser implemenation of DOM.
+###### Hierarchy of interfaces in a browser implemenation of DOM![](/assets/htmlelement-and-node.png)
 
 In the above DOM structure, the two DOM properties of the `<H1>` element \(1\) `.children` and \(2\) `.childNodes` provide different results:
 
