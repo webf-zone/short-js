@@ -12,4 +12,5 @@ It is not a book. It is not a guide. It is more like a refresher and pointer to 
 
 # Contribution
 
-All contributions are welcome. This project is a GitBook project. Just follow standard contribution practices.
+All contributions are welcome. This is a GitBook project. Just follow standard contribution practices.
+
