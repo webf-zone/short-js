@@ -55,11 +55,11 @@ canvas.addEventListener('click', (event) => {
 
     // y-position
     y = event.pageY - canvas.offsetTop;
-    
+
     const position = { x, y };
-    
+
     // do something with position
-    
+
 }, false);
 ```
 
@@ -72,4 +72,8 @@ As it turns out, there are two position values that can also be used - `event.of
 ## MouseEvent x and y
 
 Finally, you will also notice the presense of `x` and `y` properties on mouse event object. These properties are simply aliases for respective `clientX` and `clientY`.
+
+## Further reading
+
+[What is the difference between screenX/Y, clientX/Y and pageX/Y?](https://stackoverflow.com/questions/6073505/what-is-the-difference-between-screenx-y-clientx-y-and-pagex-y "What is the difference between screenX/Y, clientX/Y and pageX/Y?")
 
