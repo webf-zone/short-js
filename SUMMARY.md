@@ -22,3 +22,7 @@
 * [HTMLElement and Node](dom/htmlelement-and-node.md)
 * [HTMLCollection and NodeList](dom/htmlcollection-and-nodelist.md)
 
+## Mouse
+
+* [Mouse position](mouse/mouse-position.md)
+
