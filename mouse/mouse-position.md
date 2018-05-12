@@ -42,6 +42,8 @@ So far, I have not been really able to find any practical use of screenY value.
 
 `clientY` is another useful value which is specially useful in dialog boxes and alike. It doesn't take scrolling into consideration. Clicking in the top-left corner of the client area will always result in a mouse event with a clientY value of 0, regardless of whether the page is scrolled vertically.
 
+---
+
 ## Mouse Position in Canvas Element
 
 HTML5 `Canvas` is graphics drawing API. It is useful for image composition, animations and games. In many cases, it is required to calculate `x` and `y` position of the mouse with respect to canvas `top-left` corner of the canvas. Using above properties on `MouseEvent`, it becomes very easy to calculate it:
