@@ -2,7 +2,7 @@
 
 While building interactive web application, there is a need to get mouse position when certain event has happened. Commonly used mouse events are `click`, `mousemove`, etc. Ripple effects, animations, drap-n-drop, mouse position on canvas are the things where mouse position is frequently required.
 
-Mouse position is a pair of x and y co-ordinate. x represents horizontal position whereas y stands for vertical position. But a simple search about mouse position will reveal that we have different values available namely, `clientY`, `pageY`, `screenY`, \`offsetY\`.
+Mouse position is a pair of x and y co-ordinate. x represents horizontal position whereas y stands for vertical position. But a simple search about mouse position will reveal that we have different values available namely, `clientY`, `pageY`, `screenY`, `offsetY`.
 
 This short article is a simple attempt to illustrate the different positioning values.
 
